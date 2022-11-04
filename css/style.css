@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(159, 252, 252);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.counter-box{
+    padding: 1rem;
+}
